@@ -3,6 +3,15 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --ink: #0b3c48;
+  --ink-deep: #083b46;
+  --paper: #eff5f4;
+  --yellow: #ffbd27;
+  --coral: #f56850;
+  --mint: #53cdbb;
+  --blue: #9cb7ff;
+  --muted: #617981;
+  --white: #fff
 }
 
 @theme inline {
